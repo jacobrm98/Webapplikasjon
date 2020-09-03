@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jacobrm98/Documents/Webapplikasjoner/GruppeOppgave1/GruppeOppgave1/GruppeOppgave1.csproj",
+      "projectUniqueName": "/Users/jacobrm98/Documents/Webapplikasjoner/Webapplikasjon/GruppeOppgave1/GruppeOppgave1/GruppeOppgave1.csproj",
       "projectName": "GruppeOppgave1",
-      "projectPath": "/Users/jacobrm98/Documents/Webapplikasjoner/GruppeOppgave1/GruppeOppgave1/GruppeOppgave1.csproj",
+      "projectPath": "/Users/jacobrm98/Documents/Webapplikasjoner/Webapplikasjon/GruppeOppgave1/GruppeOppgave1/GruppeOppgave1.csproj",
       "packagesPath": "/Users/jacobrm98/.nuget/packages/",
-      "outputPath": "/Users/jacobrm98/Documents/Webapplikasjoner/GruppeOppgave1/GruppeOppgave1/obj/",
+      "outputPath": "/Users/jacobrm98/Documents/Webapplikasjoner/Webapplikasjon/GruppeOppgave1/GruppeOppgave1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/jacobrm98/.config/NuGet/NuGet.Config"
