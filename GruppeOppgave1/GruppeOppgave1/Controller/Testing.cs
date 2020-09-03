@@ -6,6 +6,7 @@ namespace GruppeOppgave1.Controller
         public Testing()
         {
             //Dette er en test.
+            //Hei hei
         }
     }
 }
