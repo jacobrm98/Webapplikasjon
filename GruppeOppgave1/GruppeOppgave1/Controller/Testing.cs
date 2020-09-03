@@ -9,6 +9,7 @@ namespace GruppeOppgave1.Controller
             //Hei hei
             //Halo
             //På do
+            //Einar kan ikke ro
         }
     }
 }
