@@ -7,6 +7,7 @@ namespace GruppeOppgave1.Controller
         {
             //Dette er en test.
             //Hei hei
+            //Halo
         }
     }
 }
