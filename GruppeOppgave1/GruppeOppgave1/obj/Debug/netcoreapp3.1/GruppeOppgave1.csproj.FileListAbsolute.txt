@@ -6,7 +6,6 @@
 /Users/jacobrm98/Documents/Webapplikasjoner/Webapplikasjon/GruppeOppgave1/GruppeOppgave1/bin/Debug/netcoreapp3.1/GruppeOppgave1.runtimeconfig.dev.json
 /Users/jacobrm98/Documents/Webapplikasjoner/Webapplikasjon/GruppeOppgave1/GruppeOppgave1/bin/Debug/netcoreapp3.1/GruppeOppgave1.dll
 /Users/jacobrm98/Documents/Webapplikasjoner/Webapplikasjon/GruppeOppgave1/GruppeOppgave1/bin/Debug/netcoreapp3.1/GruppeOppgave1.pdb
-/Users/jacobrm98/Documents/Webapplikasjoner/Webapplikasjon/GruppeOppgave1/GruppeOppgave1/obj/Debug/netcoreapp3.1/GruppeOppgave1.csprojAssemblyReference.cache
 /Users/jacobrm98/Documents/Webapplikasjoner/Webapplikasjon/GruppeOppgave1/GruppeOppgave1/obj/Debug/netcoreapp3.1/GruppeOppgave1.AssemblyInfoInputs.cache
 /Users/jacobrm98/Documents/Webapplikasjoner/Webapplikasjon/GruppeOppgave1/GruppeOppgave1/obj/Debug/netcoreapp3.1/GruppeOppgave1.AssemblyInfo.cs
 /Users/jacobrm98/Documents/Webapplikasjoner/Webapplikasjon/GruppeOppgave1/GruppeOppgave1/obj/Debug/netcoreapp3.1/GruppeOppgave1.csproj.CoreCompileInputs.cache
