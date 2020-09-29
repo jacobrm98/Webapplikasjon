@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jacobrm98/Documents/Webapplikasjoner/Webapplikasjon/GruppeOppgave1/GruppeOppgave1/GruppeOppgave1.csproj": {}
+    "/Users/jacobrm98/Projects/GruppeOppgave1/GruppeOppgave1/GruppeOppgave1.csproj": {}
   },
   "projects": {
-    "/Users/jacobrm98/Documents/Webapplikasjoner/Webapplikasjon/GruppeOppgave1/GruppeOppgave1/GruppeOppgave1.csproj": {
+    "/Users/jacobrm98/Projects/GruppeOppgave1/GruppeOppgave1/GruppeOppgave1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jacobrm98/Documents/Webapplikasjoner/Webapplikasjon/GruppeOppgave1/GruppeOppgave1/GruppeOppgave1.csproj",
+        "projectUniqueName": "/Users/jacobrm98/Projects/GruppeOppgave1/GruppeOppgave1/GruppeOppgave1.csproj",
         "projectName": "GruppeOppgave1",
-        "projectPath": "/Users/jacobrm98/Documents/Webapplikasjoner/Webapplikasjon/GruppeOppgave1/GruppeOppgave1/GruppeOppgave1.csproj",
+        "projectPath": "/Users/jacobrm98/Projects/GruppeOppgave1/GruppeOppgave1/GruppeOppgave1.csproj",
         "packagesPath": "/Users/jacobrm98/.nuget/packages/",
-        "outputPath": "/Users/jacobrm98/Documents/Webapplikasjoner/Webapplikasjon/GruppeOppgave1/GruppeOppgave1/obj/",
+        "outputPath": "/Users/jacobrm98/Projects/GruppeOppgave1/GruppeOppgave1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/jacobrm98/.config/NuGet/NuGet.Config"
@@ -35,6 +35,16 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Proxies": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -53,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.401/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
         }
       }
     }
